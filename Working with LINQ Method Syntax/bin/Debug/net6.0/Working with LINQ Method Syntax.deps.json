@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Working with LINQ Method Syntax/1.0.0": {
+        "runtime": {
+          "Working with LINQ Method Syntax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Working with LINQ Method Syntax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

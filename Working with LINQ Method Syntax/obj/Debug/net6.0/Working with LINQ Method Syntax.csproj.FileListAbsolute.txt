@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.AssemblyInfo.cs
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\bin\Debug\net6.0\Working with LINQ Method Syntax.exe
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\bin\Debug\net6.0\Working with LINQ Method Syntax.deps.json
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\bin\Debug\net6.0\Working with LINQ Method Syntax.runtimeconfig.json
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\bin\Debug\net6.0\Working with LINQ Method Syntax.dll
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\bin\Debug\net6.0\Working with LINQ Method Syntax.pdb
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.dll
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\refint\Working with LINQ Method Syntax.dll
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.pdb
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\Working with LINQ Method Syntax.genruntimeconfig.cache
+C:\Users\shane\source\repos\Working with LINQ Method Syntax\Working with LINQ Method Syntax\obj\Debug\net6.0\ref\Working with LINQ Method Syntax.dll
